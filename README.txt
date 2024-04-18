@@ -1,7 +1,9 @@
 FTP Client and Server
 
 Description
-This project includes two Python scripts: `ftp_client.py` for the FTP client and `ftp_server.py` for the FTP server. The client allows users to connect to a server, list files, retrieve files, upload files, and terminate the connection. The server listens for client connections and handles file transfers.
+This project includes two Python scripts: `ftp_client.py` for the FTP client and `ftp_server.py` for the FTP server. 
+The client allows users to connect to a server, list files, retrieve files, upload files, and terminate the connection. 
+The server listens for client connections and handles file transfers.
 
 How to Run
 1. Ensure Python 3 is installed.
